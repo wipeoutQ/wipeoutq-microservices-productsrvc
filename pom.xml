@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.cymmetri</groupId>
-		<artifactId>cymmetri-microservices-bom</artifactId>
+		<groupId>com.wipeoutq</groupId>
+		<artifactId>wipeoutq-microservices-bom</artifactId>
 		<version>${revision}</version>
-		<relativePath>../cymmetri-microservices-bom</relativePath> <!-- lookup parent from repository -->
+		<relativePath>../wipeoutq-microservices-bom</relativePath> <!-- lookup parent from repository -->
 	</parent>
 
 	<artifactId>product-service</artifactId>
